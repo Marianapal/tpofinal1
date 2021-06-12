@@ -1,0 +1,107 @@
+@media (max-width: 600px) and(max-width: 1023px) {
+  .facet_sidebar {
+    display: none;
+  }
+}
+
+header {
+  height: 100px;
+  background-color: rgb(241, 222, 238);
+}
+.fondoclase {
+  background-size: 100% 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.para_todos{
+  width: 460px;
+  height: 150px;
+  float: right;
+  margin-top: 15px;
+  font-family: 'Shadows Into Light', cursive;
+}
+.para_todos ul li{
+  display: inline;
+}
+.para_todos ul li a{
+  padding: 10px;
+  background-color: thistle;
+  font-weight: bold;
+  text-decoration: none;
+}
+#titulo{
+  font-family: 'Shadows Into Light', cursive;
+  color: rgb(124, 59, 113);
+  font-size: 100px;
+  margin: 0 0 20;
+  text-align-last: center;
+}
+#datos{
+  color: rgb(124, 59, 113);
+  font-family: 'Shadows Into Light', cursive;
+}
+#contacto ul li {
+margin-top: 50px;
+}
+#con{
+  text-align: center;
+margin-top: 105px;
+color: rgb(78, 74, 74);
+}
+#montain{
+  margin-top: 34px;
+  color: rgb(124, 59, 113);
+  font-family: 'Shadows Into Light', cursive;
+  text-align:center;
+}
+#texto_nosotros{
+font-size: 21px;
+text-align:left ;
+}
+#titulo_mountain{
+  font-size: ;
+}
+.fab  fa-facebook-square{
+  margin: right 20px;px;
+}
+#face{
+  font-size: 40px;
+  margin-left: 1300px;
+  margin-top: 120px;
+  color: rgb(124, 59, 113);
+}
+#insta{
+  font-size: 40px;
+  margin-left: 1300px;
+  margin-top: 5px;
+  color: rgb(124, 59, 113);
+}
+#carrusel_a{
+font-size: 10px;
+float: left;
+width: 500px;
+margin-top: 80px;
+color: rgb(124, 59, 113);
+font-family: 'Shadows Into Light', cursive;
+font-size: 30px;
+text-align: center;
+}
+#carrusel_b{
+align-items: center;
+height: 100px;
+float: left;
+margin-top: 80px;
+color: rgb(124, 59, 113);
+font-family: 'Shadows Into Light', cursive;
+font-size: 30px;
+text-align: center;
+}
+#carrusel_c{
+  float: right;
+  width: 350px;
+  height: 200px;
+  color: rgb(124, 59, 113);
+font-family: 'Shadows Into Light', cursive;
+font-size: 30px;
+text-align: center;
+}
