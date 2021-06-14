@@ -1,0 +1,43 @@
+        <nav id="botoneraPrincipal">
+            <ul>
+                <li><a href="/"></a>INICIO</li>
+                <li><a href=""></a>NUESTRO ESTUDIO</li>
+                <li><a href=""></a>CLASES</li>
+                <li><a href=""></a>CONTACTO</li>
+
+            </ul>
+
+        </nav>
+
+    <section id="CONTENIDO">
+        <div>Imagen1</div>
+        <article id="destacado">
+            <h1 id="tituloPrincipal"></h1>
+            <p id="contenidoArticulo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima cupiditate
+                quaerat, accusamus nihil tenetur quas perferendis? Modi perferendis quod ipsa minus laudantium
+                architecto debitis veritatis excepturi doloribus, nostrum saepe repudiandae!</p>
+        </article>
+        <article id="textoContenidoSegundo">
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam temporibus, nostrum, exercitationem error
+                laborum placeat cupiditate quidem ullam, blanditiis ratione voluptatem consectetur. Veritatis distinctio
+                minus recusandae voluptas iure blanditiis perspiciatis!</p>
+        </article>
+
+        <div>IMAGEN2</div>
+        <div id="destacado">
+            <p></p>
+        </div>
+        <aside id="complementario">
+            <img src="" alt="">
+        </aside>
+    </section>
+
+    <footer>
+        <div id="datos"></div>
+        <p>Dirección Av. Colón 5316 - Mar del Plata</p>
+        <p>Telefono: 223- 555555</p>
+        <p>Correo: info@ahimsayoga.com.ar</p>
+        <div id="redes"></div>
+
+    </footer>
+    </div>
